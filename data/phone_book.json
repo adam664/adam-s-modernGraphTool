@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Flo",
+    "suffix": "Audio",
+    "phones": [
+      {
+        "name": [
+          "Bluelover"
+        ],
+        "file": [
+          "Bluelover"
+        ],
+        "suffix": [
+          ""
+        ],
+        "samples": 5
+      },
+      {
+        "name": "Lily",
+        "file": "Lily",
+        "description": "Friend's unit, one sample"
+      }
+    ]
+  },
+  {
+    "name": "Moondrop",
+    "phones": [
+      {
+        "name": [
+          "Blessing2"
+        ],
+        "file": [
+          "Blessing2"
+        ],
+        "suffix": [
+          ""
+        ],
+        "samples": 5
+      }
+    ]
+  },
+  {
+    "name": "Truthear",
+    "phones": [
+      {
+        "name": [
+          "Hexa"
+        ],
+        "file": [
+          "Hexa"
+        ],
+        "suffix": [
+          ""
+        ],
+        "samples": 5,
+        "description": "Left side dead DD"
+      }
+    ]
+  },
+  {
+    "name": "Tanchjim",
+    "phones": [
+      {
+        "name": [
+          "One"
+        ],
+        "file": [
+          "One"
+        ],
+        "suffix": [
+          ""
+        ],
+        "samples": 5
+      },
+      {
+        "name": "Bunny",
+        "file": "Bunny",
+        "description": "Friend's unit, one sample"
+      }
+    ]
+  }
+]
